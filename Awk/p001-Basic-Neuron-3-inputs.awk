@@ -14,4 +14,4 @@ BEGIN {
     _dot_result = _dot_result + _inputs[_key] * _weights[_key]
   }
   _result = _dot_result + _bias
-}
+} 
