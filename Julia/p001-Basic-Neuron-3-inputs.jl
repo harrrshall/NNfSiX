@@ -11,3 +11,4 @@ bias = 3.0
 
 output = inputs[1]*weights[1] + inputs[2]*weights[2] + inputs[3]*weights[3] + bias
 println(output)
+  
