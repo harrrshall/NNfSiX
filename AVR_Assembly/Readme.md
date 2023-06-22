@@ -1,4 +1,4 @@
-# This is the AVR Assembly documentation for NNFSiX
+# This is the AVR Assembly documentation for NNFSix
 
 ## Explanation of the files
 1. attinyXX.asm - This is the file where registers are mapped to the memory location. That way, in the code, we can put readable register names and this file will link them to the correct address. Similar files can be found online but I made these myself so there might be errors (I hope not...). I used the official datasheet for each microcontroller to create these files. I also added some explanations to some registers.
