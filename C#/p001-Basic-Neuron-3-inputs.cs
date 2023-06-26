@@ -1,5 +1,6 @@
-﻿using System;
 // starting code
+using System;
+
 namespace NNFS
 {
     /// <summary>
