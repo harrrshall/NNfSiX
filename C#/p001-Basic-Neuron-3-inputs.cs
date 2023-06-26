@@ -2,7 +2,7 @@
 
 namespace NNFS
 {
-    /// <summary>
+
     /// Basic Neuron with 3 Inputs in C#
     
 //     Basic Neurom With 3 Inputs in C#
