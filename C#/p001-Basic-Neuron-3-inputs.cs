@@ -1,4 +1,4 @@
-// starting code //
+// whole  code //
 using System;
 
 namespace NNFS
